@@ -1,6 +1,4 @@
-.  
-├── readme.md  
-├── task1  
-│     └── cpp运行helloworld截图.png 
-│     └── cpp运行helloworld截图.png
-└── task2  
+task
+└─task 1
+        cpp运行helloworld截图.png
+        ubuntu测试截图.png
